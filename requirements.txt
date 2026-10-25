@@ -1,2 +1,4 @@
 anthropic==2.3.0
 pydantic==2.14.1
+requests>=2.32.0
+beautifulsoup4>=4.12.0
